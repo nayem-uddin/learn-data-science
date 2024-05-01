@@ -1,2 +1,2 @@
 # learn-data-science
-coursera lessons of data science
+if changes can't be committed directly to the "main" branch.
